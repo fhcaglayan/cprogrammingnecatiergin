@@ -1,0 +1,3 @@
+D:/Programming Lectures CSDernegi/C kursu odevleri - 2021 08 05/03_Fonksiyonlar - Solutions/cmake-build-debug/CMakeFiles/03_Fonksiyonlar___Solutions.dir
+D:/Programming Lectures CSDernegi/C kursu odevleri - 2021 08 05/03_Fonksiyonlar - Solutions/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming Lectures CSDernegi/C kursu odevleri - 2021 08 05/03_Fonksiyonlar - Solutions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

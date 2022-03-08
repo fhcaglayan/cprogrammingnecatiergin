@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../futility.h
+stdlib.h
+-
+time.h
+-
+
+D:/Programming Lectures CSDernegi/odevler/ders_odevleri/22_3_maximum_sub_array/22_3_maximum_sub_array_kadane.c
+stdio.h
+-
+futility.h
+D:/Programming Lectures CSDernegi/odevler/ders_odevleri/22_3_maximum_sub_array/futility.h
+

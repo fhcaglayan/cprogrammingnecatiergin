@@ -1,0 +1,6 @@
+D:/Programming Lectures CSDernegi/odevler/14_Diziler - Solutions/dizi_01/cmake-build-debug/CMakeFiles/dizi_01.dir
+D:/Programming Lectures CSDernegi/odevler/14_Diziler - Solutions/dizi_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming Lectures CSDernegi/odevler/14_Diziler - Solutions/dizi_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Programming Lectures CSDernegi/odevler/CMakeFiles/futility.dir
+D:/Programming Lectures CSDernegi/odevler/CMakeFiles/edit_cache.dir
+D:/Programming Lectures CSDernegi/odevler/CMakeFiles/rebuild_cache.dir

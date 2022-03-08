@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.20)
+project(28_1_mystrstr C)
+
+set(CMAKE_C_STANDARD 11)
+
+include_directories(${PROJECT_SOURCE_DIR}/../..)
+
+add_subdirectory("D:/Programming Lectures CSDernegi/odevler" "D:/Programming Lectures CSDernegi/odevler")
+
+add_executable(28_1_mystrstr
+        "28_1_mystrstr.c"
+)
+
+target_link_libraries(28_1_mystrstr futility)

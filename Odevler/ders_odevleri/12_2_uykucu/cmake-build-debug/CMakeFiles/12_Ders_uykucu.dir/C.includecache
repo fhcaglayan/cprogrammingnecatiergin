@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programming Lectures CSDernegi/Exercises/12.Ders uykucu/12.Ders uykucu odevi method2 - Fatih Han Caglayan.c
+stdio.h
+-
+stdlib.h
+-
+

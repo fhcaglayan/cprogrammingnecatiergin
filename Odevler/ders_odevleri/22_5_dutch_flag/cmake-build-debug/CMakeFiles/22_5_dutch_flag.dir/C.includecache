@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../futility.h
+stdlib.h
+-
+time.h
+-
+
+D:/Programming Lectures CSDernegi/odevler/ders_odevleri/22_5_dutch_flag/22_5_dutch_flag_method_own_combo_internet - Copy.c
+stdio.h
+-
+futility.h
+D:/Programming Lectures CSDernegi/odevler/ders_odevleri/22_5_dutch_flag/futility.h
+

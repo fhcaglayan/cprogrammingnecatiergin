@@ -1,0 +1,6 @@
+D:/Programming Lectures CSDernegi/odevler/ders_odevleri/23_2_reverse_two_words/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Programming Lectures CSDernegi/odevler/ders_odevleri/23_2_reverse_two_words/cmake-build-debug/CMakeFiles/23_2_reverse_two_words.dir
+D:/Programming Lectures CSDernegi/odevler/ders_odevleri/23_2_reverse_two_words/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming Lectures CSDernegi/odevler/CMakeFiles/futility.dir
+D:/Programming Lectures CSDernegi/odevler/CMakeFiles/edit_cache.dir
+D:/Programming Lectures CSDernegi/odevler/CMakeFiles/rebuild_cache.dir

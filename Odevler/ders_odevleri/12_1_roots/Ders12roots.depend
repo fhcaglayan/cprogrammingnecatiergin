@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641402005 source:d:\programming lectures csdernegi\exercises\ders12roots\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

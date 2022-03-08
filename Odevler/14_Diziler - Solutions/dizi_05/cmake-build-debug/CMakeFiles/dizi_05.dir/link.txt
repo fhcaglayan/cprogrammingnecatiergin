@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\dizi_05.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\dizi_05.dir/objects.a @CMakeFiles\dizi_05.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\dizi_05.dir/objects.a -Wl,--no-whole-archive -o dizi_05.exe -Wl,--out-implib,libdizi_05.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dizi_05.dir\linklibs.rsp

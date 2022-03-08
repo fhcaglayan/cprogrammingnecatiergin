@@ -1,0 +1,30 @@
+The system is: Windows - 10.0.19044 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "D:/Programming Lectures CSDernegi/odevler/ders_odevleri/22_4_linear_complexity_partitioning/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Programming Lectures CSDernegi/odevler/ders_odevleri/22_4_linear_complexity_partitioning/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f Makefile cmTC_c797f/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_c797f.dir\build.make CMakeFiles/cmTC_c797f.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Programming Lectures CSDernegi/odevler/ders_odevleri/22_4_linear_complexity_partitioning/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c797f.dir/testCCompiler.c.obj
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe    -o CMakeFiles\cmTC_c797f.dir\testCCompiler.c.obj -c "D:\Programming Lectures CSDernegi\odevler\ders_odevleri\22_4_linear_complexity_partitioning\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_c797f.exe
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c797f.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_c797f.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\cmTC_c797f.dir/objects.a @CMakeFiles\cmTC_c797f.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe -Wl,--whole-archive CMakeFiles\cmTC_c797f.dir/objects.a -Wl,--no-whole-archive -o cmTC_c797f.exe -Wl,--out-implib,libcmTC_c797f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_c797f.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Programming Lectures CSDernegi/odevler/ders_odevleri/22_4_linear_complexity_partitioning/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+

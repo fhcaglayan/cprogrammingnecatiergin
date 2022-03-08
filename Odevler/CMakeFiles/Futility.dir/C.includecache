@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programming Lectures CSDernegi/odevler/futility.c
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+futility.h
+D:/Programming Lectures CSDernegi/odevler/futility.h
+
+D:/Programming Lectures CSDernegi/odevler/futility.h
+stdlib.h
+-
+time.h
+-
+
