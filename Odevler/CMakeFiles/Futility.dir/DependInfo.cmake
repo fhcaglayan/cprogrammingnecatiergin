@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/Programming Lectures CSDernegi/odevler/futility.c" "D:/Programming Lectures CSDernegi/odevler/CMakeFiles/Futility.dir/futility.c.obj"
+  "D:/Programming Lectures CSDernegi/Odevler/futility.c" "D:/Programming Lectures CSDernegi/Odevler/CMakeFiles/Futility.dir/futility.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

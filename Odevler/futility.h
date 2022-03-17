@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define		asize(x)		(sizeof(a) / sizeof(*a))
+#define		asize(a)		(sizeof(a) / sizeof(*a))
 #define		randomize()		(srand((unsigned)time(0)))
 #define     isleap(y)       ((y) % 4 == 0 && (y) % 100 != 0 || (y) % 400 == 0)
 #define     ALPHABET_SIZE   26

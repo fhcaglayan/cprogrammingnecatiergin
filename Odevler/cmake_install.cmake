@@ -1,4 +1,4 @@
-# Install script for directory: D:/Programming Lectures CSDernegi/odevler
+# Install script for directory: D:/Programming Lectures CSDernegi/Odevler
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

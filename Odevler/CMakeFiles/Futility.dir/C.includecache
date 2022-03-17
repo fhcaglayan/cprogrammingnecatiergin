@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/Programming Lectures CSDernegi/odevler/futility.c
+D:/Programming Lectures CSDernegi/Odevler/futility.c
 stdio.h
 -
 math.h
@@ -18,9 +18,9 @@ ctype.h
 string.h
 -
 futility.h
-D:/Programming Lectures CSDernegi/odevler/futility.h
+D:/Programming Lectures CSDernegi/Odevler/futility.h
 
-D:/Programming Lectures CSDernegi/odevler/futility.h
+D:/Programming Lectures CSDernegi/Odevler/futility.h
 stdlib.h
 -
 time.h

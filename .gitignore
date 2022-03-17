@@ -1,6 +1,8 @@
 # Ignore everything:
-*
+/*
 # Except for
 !.gitignore
-!/Notlar
-!/odevler
+!/Notlar/
+!/Notlar/*
+!/Odevler/
+!/Odevler/*

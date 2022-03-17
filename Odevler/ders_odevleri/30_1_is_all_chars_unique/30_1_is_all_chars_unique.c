@@ -1,6 +1,6 @@
 /*
  * Author: Fatih Han Caglayan
- * Exercise: 00. Ders 0. Odev: Selftrial
+ * Exercise: 30. Ders 1. Odev: Is all chars unique
  *
  */
 
