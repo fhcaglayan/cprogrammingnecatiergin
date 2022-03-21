@@ -1,0 +1,6 @@
+D:/Programming Lectures CSDernegi/Odevler/ders_odevleri/32_1_sort_names/cmake-build-debug/CMakeFiles/32_1_sort_names.dir
+D:/Programming Lectures CSDernegi/Odevler/ders_odevleri/32_1_sort_names/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming Lectures CSDernegi/Odevler/ders_odevleri/32_1_sort_names/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Programming Lectures CSDernegi/Odevler/CMakeFiles/futility.dir
+D:/Programming Lectures CSDernegi/Odevler/CMakeFiles/edit_cache.dir
+D:/Programming Lectures CSDernegi/Odevler/CMakeFiles/rebuild_cache.dir

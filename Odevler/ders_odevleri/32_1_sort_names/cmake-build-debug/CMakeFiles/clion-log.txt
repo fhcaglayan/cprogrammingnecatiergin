@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\32_1_sort_names"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Programming Lectures CSDernegi/Odevler/ders_odevleri/32_1_sort_names/cmake-build-debug
+Unable to determine product file path for target futility. Running and debugging will be unavailable.
