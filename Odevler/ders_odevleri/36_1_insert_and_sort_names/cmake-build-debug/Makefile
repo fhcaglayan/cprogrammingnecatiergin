@@ -86,14 +86,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /d D:\PROGRA~4\Odevler\DERS_O~1\36_1_I~1\CMAKE-~1 && $(CMAKE_COMMAND) -E cmake_progress_start "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\36_1_insert_and_sort_names\cmake-build-debug\CMakeFiles" "D:\Programming Lectures CSDernegi\Odevler\\CMakeFiles\progress.marks"
-	cd /d D:\PROGRA~4\Odevler\DERS_O~1\36_1_I~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ../../../all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\36_1_insert_and_sort_names\cmake-build-debug\CMakeFiles" "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\36_1_insert_and_sort_names\cmake-build-debug\\CMakeFiles\progress.marks"
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\36_1_insert_and_sort_names\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d D:\PROGRA~4\Odevler\DERS_O~1\36_1_I~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ../../../clean
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 clean
 .PHONY : clean
 
 # The main clean target
@@ -102,56 +102,68 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d D:\PROGRA~4\Odevler\DERS_O~1\36_1_I~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ../../../preinstall
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d D:\PROGRA~4\Odevler\DERS_O~1\36_1_I~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ../../../preinstall
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d D:\PROGRA~4\Odevler\DERS_O~1\36_1_I~1\CMAKE-~1 && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
-# Convenience name for target.
-../../..//CMakeFiles/futility.dir/rule:
-	cd /d D:\PROGRA~4\Odevler\DERS_O~1\36_1_I~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ../../..//CMakeFiles/futility.dir/rule
-.PHONY : ../../..//CMakeFiles/futility.dir/rule
+#=============================================================================
+# Target rules for targets named 36_1_insert_and_sort_names
 
-# Convenience name for target.
-futility: ../../..//CMakeFiles/futility.dir/rule
+# Build rule for target.
+36_1_insert_and_sort_names: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 36_1_insert_and_sort_names
+.PHONY : 36_1_insert_and_sort_names
+
+# fast build rule for target.
+36_1_insert_and_sort_names/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\36_1_insert_and_sort_names.dir\build.make CMakeFiles/36_1_insert_and_sort_names.dir/build
+.PHONY : 36_1_insert_and_sort_names/fast
+
+#=============================================================================
+# Target rules for targets named futility
+
+# Build rule for target.
+futility: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 futility
 .PHONY : futility
 
 # fast build rule for target.
 futility/fast:
-	cd /d D:\PROGRA~4\Odevler\DERS_O~1\36_1_I~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ..\..\..\\CMakeFiles\futility.dir\build.make ../../..//CMakeFiles/futility.dir/build
+	$(MAKE) $(MAKESILENT) -f ..\..\..\\CMakeFiles\futility.dir\build.make ../../..//CMakeFiles/futility.dir/build
 .PHONY : futility/fast
 
-futility.obj: futility.c.obj
-.PHONY : futility.obj
+36_1_insert_and_sort_names.obj: 36_1_insert_and_sort_names.c.obj
+.PHONY : 36_1_insert_and_sort_names.obj
 
 # target to build an object file
-futility.c.obj:
-	cd /d D:\PROGRA~4\Odevler\DERS_O~1\36_1_I~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ..\..\..\\CMakeFiles\futility.dir\build.make ../../..//CMakeFiles/futility.dir/futility.c.obj
-.PHONY : futility.c.obj
+36_1_insert_and_sort_names.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\36_1_insert_and_sort_names.dir\build.make CMakeFiles/36_1_insert_and_sort_names.dir/36_1_insert_and_sort_names.c.obj
+.PHONY : 36_1_insert_and_sort_names.c.obj
 
-futility.i: futility.c.i
-.PHONY : futility.i
+36_1_insert_and_sort_names.i: 36_1_insert_and_sort_names.c.i
+.PHONY : 36_1_insert_and_sort_names.i
 
 # target to preprocess a source file
-futility.c.i:
-	cd /d D:\PROGRA~4\Odevler\DERS_O~1\36_1_I~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ..\..\..\\CMakeFiles\futility.dir\build.make ../../..//CMakeFiles/futility.dir/futility.c.i
-.PHONY : futility.c.i
+36_1_insert_and_sort_names.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\36_1_insert_and_sort_names.dir\build.make CMakeFiles/36_1_insert_and_sort_names.dir/36_1_insert_and_sort_names.c.i
+.PHONY : 36_1_insert_and_sort_names.c.i
 
-futility.s: futility.c.s
-.PHONY : futility.s
+36_1_insert_and_sort_names.s: 36_1_insert_and_sort_names.c.s
+.PHONY : 36_1_insert_and_sort_names.s
 
 # target to generate assembly for a file
-futility.c.s:
-	cd /d D:\PROGRA~4\Odevler\DERS_O~1\36_1_I~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ..\..\..\\CMakeFiles\futility.dir\build.make ../../..//CMakeFiles/futility.dir/futility.c.s
-.PHONY : futility.c.s
+36_1_insert_and_sort_names.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\36_1_insert_and_sort_names.dir\build.make CMakeFiles/36_1_insert_and_sort_names.dir/36_1_insert_and_sort_names.c.s
+.PHONY : 36_1_insert_and_sort_names.c.s
 
 # Help Target
 help:
@@ -161,10 +173,11 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... 36_1_insert_and_sort_names
 	@echo ... futility
-	@echo ... futility.obj
-	@echo ... futility.i
-	@echo ... futility.s
+	@echo ... 36_1_insert_and_sort_names.obj
+	@echo ... 36_1_insert_and_sort_names.i
+	@echo ... 36_1_insert_and_sort_names.s
 .PHONY : help
 
 
@@ -176,6 +189,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d D:\PROGRA~4\Odevler\DERS_O~1\36_1_I~1\CMAKE-~1 && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

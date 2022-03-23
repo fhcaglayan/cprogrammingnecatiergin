@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\32_1_sort_names"
+CMAKE_SOURCE_DIR = "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\36_1_insert_and_sort_names"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\32_1_sort_names\cmake-build-debug"
+CMAKE_BINARY_DIR = "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\36_1_insert_and_sort_names\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include ../../../CMakeFiles/futility.dir/depend.make
@@ -68,7 +68,7 @@ include ../../../CMakeFiles/futility.dir/flags.make
 ../../..//CMakeFiles/futility.dir/futility.c.obj: ../../../CMakeFiles/futility.dir/flags.make
 ../../..//CMakeFiles/futility.dir/futility.c.obj: ../../../CMakeFiles/futility.dir/includes_C.rsp
 ../../..//CMakeFiles/futility.dir/futility.c.obj: ../../../futility.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\32_1_sort_names\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object ../../..//CMakeFiles/futility.dir/futility.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\36_1_insert_and_sort_names\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object ../../..//CMakeFiles/futility.dir/futility.c.obj"
 	cd /d D:\PROGRA~4\Odevler && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\futility.dir\futility.c.obj -c "D:\Programming Lectures CSDernegi\Odevler\futility.c"
 
 ../../..//CMakeFiles/futility.dir/futility.c.i: cmake_force
@@ -89,7 +89,7 @@ futility_EXTERNAL_OBJECTS =
 ../../../libfutility.a: ../../..//CMakeFiles/futility.dir/futility.c.obj
 ../../../libfutility.a: ../../../CMakeFiles/futility.dir/build.make
 ../../../libfutility.a: ../../../CMakeFiles/futility.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\32_1_sort_names\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libfutility.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\36_1_insert_and_sort_names\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libfutility.a"
 	cd /d D:\PROGRA~4\Odevler && $(CMAKE_COMMAND) -P CMakeFiles\futility.dir\cmake_clean_target.cmake
 	cd /d D:\PROGRA~4\Odevler && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\futility.dir\link.txt --verbose=$(VERBOSE)
 
@@ -102,6 +102,6 @@ futility_EXTERNAL_OBJECTS =
 .PHONY : ../../..//CMakeFiles/futility.dir/clean
 
 ../../..//CMakeFiles/futility.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\32_1_sort_names" "D:\Programming Lectures CSDernegi\Odevler" "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\32_1_sort_names\cmake-build-debug" "D:\Programming Lectures CSDernegi\Odevler" "D:\Programming Lectures CSDernegi\Odevler\CMakeFiles\Futility.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\36_1_insert_and_sort_names" "D:\Programming Lectures CSDernegi\Odevler" "D:\Programming Lectures CSDernegi\Odevler\ders_odevleri\36_1_insert_and_sort_names\cmake-build-debug" "D:\Programming Lectures CSDernegi\Odevler" "D:\Programming Lectures CSDernegi\Odevler\CMakeFiles\Futility.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : ../../..//CMakeFiles/futility.dir/depend
 

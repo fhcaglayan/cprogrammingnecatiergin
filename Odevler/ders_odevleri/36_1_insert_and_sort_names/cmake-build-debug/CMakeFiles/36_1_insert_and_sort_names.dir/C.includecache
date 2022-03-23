@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../futility.h
+stdlib.h
+-
+time.h
+-
+
+D:/Programming Lectures CSDernegi/Odevler/ders_odevleri/36_1_insert_and_sort_names/36_1_insert_and_sort_names.c
+stdio.h
+-
+string.h
+-
+futility.h
+D:/Programming Lectures CSDernegi/Odevler/ders_odevleri/36_1_insert_and_sort_names/futility.h
+
